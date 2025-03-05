@@ -62,9 +62,6 @@ java -cp "bin:lib/gson-2.11.0.jar" WeatherSwingApp
 ## 🤝 Contributing
 Pull requests and issues are welcome! Feel free to improve the app or report bugs.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 ⭐ If you find this project useful, don't forget to **star** this repository!
 
